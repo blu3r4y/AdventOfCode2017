@@ -6,7 +6,7 @@ My solutions for the [AoC 2017](http://adventofcode.com/2017) challenges, writte
 
 - [Day 1: Inverse Captcha](http://adventofcode.com/2017/day/1) :pencil2: **[Solution](day1.py)**
 - [Day 2: Corruption Checksum](http://adventofcode.com/2017/day/2) - :pencil2: **[Solution](day2.py)**
-- [Day 3: Spiral Memory](http://adventofcode.com/2017/day/3)
+- [Day 3: Spiral Memory](http://adventofcode.com/2017/day/3) - :pencil2: **[Solution](day3.py)**
 - [Day 4: High-Entropy Passphrases](http://adventofcode.com/2017/day/4)
 - [Day 5: A Maze of Twisty Trampolines, All Alike](http://adventofcode.com/2017/day/5)
 - [Day 6: Memory Reallocation](http://adventofcode.com/2017/day/6)
