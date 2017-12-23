@@ -23,7 +23,7 @@ My solutions for the [AoC 2017](http://adventofcode.com/2017) challenges, writte
 - [Day 17: Spinlock](http://adventofcode.com/2017/day/17) - :pencil2: **[Solution](day17.py)**
 - [Day 18: Duet](http://adventofcode.com/2017/day/18) - :pencil2: **[Solution](day18.py)**
 - [Day 19: A Series of Tubes](http://adventofcode.com/2017/day/19) - :pencil2: **[Solution](day19.py)**
-- [Day 20: Particle Swarm](http://adventofcode.com/2017/day/20)
+- [Day 20: Particle Swarm](http://adventofcode.com/2017/day/20) - :pencil2: **[Solution](day20.py)**
 - [Day 21: Fractal Art](http://adventofcode.com/2017/day/21)
 - [Day 22: Sporifica Virus](http://adventofcode.com/2017/day/22)
 - [Day 23: Coprocessor Conflagration](http://adventofcode.com/2017/day/23) - :pencil2: **[Solution](day23.py)**
