@@ -2,33 +2,35 @@
 
 My solutions for the [AoC 2017](http://adventofcode.com/2017) challenges, written in Python.
 
+:christmas_tree: :christmas_tree: :christmas_tree:
+
 ## Challenges
 
-- [Day 1: Inverse Captcha](http://adventofcode.com/2017/day/1) :pencil2: **[Solution](day1.py)**
-- [Day 2: Corruption Checksum](http://adventofcode.com/2017/day/2) - :pencil2: **[Solution](day2.py)**
-- [Day 3: Spiral Memory](http://adventofcode.com/2017/day/3) - :pencil2: **[Solution](day3.py)**
-- [Day 4: High-Entropy Passphrases](http://adventofcode.com/2017/day/4) - :pencil2: **[Solution](day4.py)**
-- [Day 5: A Maze of Twisty Trampolines, All Alike](http://adventofcode.com/2017/day/5) - :pencil2: **[Solution](day5.py)**
-- [Day 6: Memory Reallocation](http://adventofcode.com/2017/day/6) - :pencil2: **[Solution](day6.py)**
-- [Day 7: Recursive Circus](http://adventofcode.com/2017/day/7) - :pencil2: **[Solution](day7.py)**
-- [Day 8: I Heard You Like Registers](http://adventofcode.com/2017/day/8) - :pencil2: **[Solution](day8.py)**
-- [Day 9: Stream Processing](http://adventofcode.com/2017/day/9) - :pencil2: **[Solution](day9.py)**
-- [Day 10: Knot Hash](http://adventofcode.com/2017/day/10) - :pencil2: **[Solution](day10.py)**
-- [Day 11: Hex Ed](http://adventofcode.com/2017/day/11) - :pencil2: **[Solution](day11.py)**
-- [Day 12: Digital Plumber](http://adventofcode.com/2017/day/12) - :pencil2: **[Solution](day12.py)**
-- [Day 13: Packet Scanners](http://adventofcode.com/2017/day/13) - :pencil2: **[Solution](day13.py)**
-- [Day 14: Disk Defragmentation](http://adventofcode.com/2017/day/14) - :pencil2: **[Solution](day14.py)**
-- [Day 15: Dueling Generators](http://adventofcode.com/2017/day/15) - :pencil2: **[Solution](day15.py)**
-- [Day 16: Permutation Promenade](http://adventofcode.com/2017/day/16) - :pencil2: **[Solution](day16.py)**
-- [Day 17: Spinlock](http://adventofcode.com/2017/day/17) - :pencil2: **[Solution](day17.py)**
-- [Day 18: Duet](http://adventofcode.com/2017/day/18) - :pencil2: **[Solution](day18.py)**
-- [Day 19: A Series of Tubes](http://adventofcode.com/2017/day/19) - :pencil2: **[Solution](day19.py)**
-- [Day 20: Particle Swarm](http://adventofcode.com/2017/day/20) - :pencil2: **[Solution](day20.py)**
-- [Day 21: Fractal Art](http://adventofcode.com/2017/day/21) - :pencil2: **[Solution](day21.py)**
-- [Day 22: Sporifica Virus](http://adventofcode.com/2017/day/22) - :pencil2: **[Solution](day22.py)**
-- [Day 23: Coprocessor Conflagration](http://adventofcode.com/2017/day/23) - :pencil2: **[Solution](day23.py)**
-- [Day 24: Electromagnetic Moat](http://adventofcode.com/2017/day/24) - :pencil2: **[Solution](day24.py)**
-- [Day 25: The Halting Problem](http://adventofcode.com/2017/day/25) - :pencil2: **[Solution](day25.py)**
+- **[Day 1: Inverse Captcha](day1.py)** - [Challenge Description](http://adventofcode.com/2017/day/1)
+- **[Day 2: Corruption Checksum](day2.py)** - [Challenge Description](http://adventofcode.com/2017/day/2)
+- **[Day 3: Spiral Memory](day3.py)** - [Challenge Description](http://adventofcode.com/2017/day/3)
+- **[Day 4: High-Entropy Passphrases](day4.py)** - [Challenge Description](http://adventofcode.com/2017/day/4)
+- **[Day 5: A Maze of Twisty Trampolines, All Alike](day5.py)** - [Challenge Description](http://adventofcode.com/2017/day/5)
+- **[Day 6: Memory Reallocation](day6.py)** - [Challenge Description](http://adventofcode.com/2017/day/6)
+- **[Day 7: Recursive Circus](day7.py)** - [Challenge Description](http://adventofcode.com/2017/day/7)
+- **[Day 8: I Heard You Like Registers](day8.py)** - [Challenge Description](http://adventofcode.com/2017/day/8)
+- **[Day 9: Stream Processing](day9.py)** - [Challenge Description](http://adventofcode.com/2017/day/9)
+- **[Day 10: Knot Hash](day10.py)** - [Challenge Description](http://adventofcode.com/2017/day/10)
+- **[Day 11: Hex Ed](day11.py)** - [Challenge Description](http://adventofcode.com/2017/day/11)
+- **[Day 12: Digital Plumber](day12.py)** - [Challenge Description](http://adventofcode.com/2017/day/12)
+- **[Day 13: Packet Scanners](day13.py)** - [Challenge Description](http://adventofcode.com/2017/day/13)
+- **[Day 14: Disk Defragmentation](day14.py)** - [Challenge Description](http://adventofcode.com/2017/day/14)
+- **[Day 15: Dueling Generators](day15.py)** - [Challenge Description](http://adventofcode.com/2017/day/15)
+- **[Day 16: Permutation Promenade](day16.py)** - [Challenge Description](http://adventofcode.com/2017/day/16)
+- **[Day 17: Spinlock](day17.py)** - [Challenge Description](http://adventofcode.com/2017/day/17)
+- **[Day 18: Duet](day18.py)** - [Challenge Description](http://adventofcode.com/2017/day/18)
+- **[Day 19: A Series of Tubes](day19.py)** - [Challenge Description](http://adventofcode.com/2017/day/19)
+- **[Day 20: Particle Swarm](day20.py)** - [Challenge Description](http://adventofcode.com/2017/day/20)
+- **[Day 21: Fractal Art](day21.py)** - [Challenge Description](http://adventofcode.com/2017/day/21)
+- **[Day 22: Sporifica Virus](day22.py)** - [Challenge Description](http://adventofcode.com/2017/day/22)
+- **[Day 23: Coprocessor Conflagration](day23.py)** - [Challenge Description](http://adventofcode.com/2017/day/23)
+- **[Day 24: Electromagnetic Moat](day24.py)** - [Challenge Description](http://adventofcode.com/2017/day/24)
+- **[Day 25: The Halting Problem](day25.py)** - [Challenge Description](http://adventofcode.com/2017/day/25)
 
 ## Requirements
 
