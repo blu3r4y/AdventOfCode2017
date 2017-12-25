@@ -11,7 +11,7 @@ My solutions for the [AoC 2017](http://adventofcode.com/2017) challenges, writte
 - [Day 5: A Maze of Twisty Trampolines, All Alike](http://adventofcode.com/2017/day/5) - :pencil2: **[Solution](day5.py)**
 - [Day 6: Memory Reallocation](http://adventofcode.com/2017/day/6) - :pencil2: **[Solution](day6.py)**
 - [Day 7: Recursive Circus](http://adventofcode.com/2017/day/7) - :pencil2: **[Solution](day7.py)**
-- [Day 8: I Heard You Like Registers](http://adventofcode.com/2017/day/8)
+- [Day 8: I Heard You Like Registers](http://adventofcode.com/2017/day/8) - :pencil2: **[Solution](day8.py)**
 - [Day 9: Stream Processing](http://adventofcode.com/2017/day/9)
 - [Day 10: Knot Hash](http://adventofcode.com/2017/day/10) - :pencil2: **[Solution](day10.py)**
 - [Day 11: Hex Ed](http://adventofcode.com/2017/day/11) - :pencil2: **[Solution](day11.py)**
