@@ -28,6 +28,7 @@ My solutions for the [AoC 2017](http://adventofcode.com/2017) challenges, writte
 - [Day 22: Sporifica Virus](http://adventofcode.com/2017/day/22) - :pencil2: **[Solution](day22.py)**
 - [Day 23: Coprocessor Conflagration](http://adventofcode.com/2017/day/23) - :pencil2: **[Solution](day23.py)**
 - [Day 24: Electromagnetic Moat](http://adventofcode.com/2017/day/24) - :pencil2: **[Solution](day24.py)**
+- [Day 25: The Halting Problem](http://adventofcode.com/2017/day/25) - :pencil2: **[Solution](day25.py)**
 
 ## Requirements
 
