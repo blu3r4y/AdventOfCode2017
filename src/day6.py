@@ -34,7 +34,7 @@ def part2(banks):
 
 
 print(part1([0, 2, 7, 0]))
-print(part1(np.loadtxt('assets/day6.txt', dtype=int)))
+print(part1(np.loadtxt('../assets/day6.txt', dtype=int)))
 
 print(part2([0, 2, 7, 0]))
-print(part2(np.loadtxt('assets/day6.txt', dtype=int)))
+print(part2(np.loadtxt('../assets/day6.txt', dtype=int)))

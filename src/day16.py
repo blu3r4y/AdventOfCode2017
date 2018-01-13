@@ -44,7 +44,7 @@ def part2(line, moves, repetitions=1000000000):
 
 
 print(part1("abcde", ["s1", "x3/4", "pe/b"]))
-print(part1("abcdefghijklmnop", np.loadtxt('assets/day16.txt', dtype=str, delimiter=',')))
+print(part1("abcdefghijklmnop", np.loadtxt('../assets/day16.txt', dtype=str, delimiter=',')))
 
 print(part2("abcde", ["s1", "x3/4", "pe/b"]))
-print(part2("abcdefghijklmnop", np.loadtxt('assets/day16.txt', dtype=str, delimiter=',')))
+print(part2("abcdefghijklmnop", np.loadtxt('../assets/day16.txt', dtype=str, delimiter=',')))

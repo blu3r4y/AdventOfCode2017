@@ -25,11 +25,11 @@ def part2(spec):
 
 
 print(part1([[int(e) for e in line[1].split(', ')] for line in
-             np.loadtxt('assets/day12_demo.txt', dtype=str, delimiter='<->')]))
+             np.loadtxt('../assets/day12_demo.txt', dtype=str, delimiter='<->')]))
 print(part1([[int(e) for e in line[1].split(', ')] for line in
-             np.loadtxt('assets/day12.txt', dtype=str, delimiter='<->')]))
+             np.loadtxt('../assets/day12.txt', dtype=str, delimiter='<->')]))
 
 print(part2([[int(e) for e in line[1].split(', ')] for line in
-             np.loadtxt('assets/day12_demo.txt', dtype=str, delimiter='<->')]))
+             np.loadtxt('../assets/day12_demo.txt', dtype=str, delimiter='<->')]))
 print(part2([[int(e) for e in line[1].split(', ')] for line in
-             np.loadtxt('assets/day12.txt', dtype=str, delimiter='<->')]))
+             np.loadtxt('../assets/day12.txt', dtype=str, delimiter='<->')]))

@@ -26,7 +26,7 @@ def part2(jumps):
 
 
 print(part1([0, 3, 0, 1, -3]))
-print(part1(np.loadtxt('assets/day5.txt', dtype=int)))
+print(part1(np.loadtxt('../assets/day5.txt', dtype=int)))
 
 print(part2([0, 3, 0, 1, -3]))
-print(part2(np.loadtxt('assets/day5.txt', dtype=int)))
+print(part2(np.loadtxt('../assets/day5.txt', dtype=int)))

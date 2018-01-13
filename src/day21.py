@@ -71,7 +71,7 @@ def part2(file):
     return enhance(*load(file), iterations=18)
 
 
-print(part1('assets/day21_demo.txt', 2))
-print(part1('assets/day21.txt'))
+print(part1('../assets/day21_demo.txt', 2))
+print(part1('../assets/day21.txt'))
 
-print(part2('assets/day21.txt'))
+print(part2('../assets/day21.txt'))

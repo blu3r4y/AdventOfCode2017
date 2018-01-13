@@ -33,8 +33,8 @@ def part2(instructions):
     return interpret(instructions)[1]
 
 
-print(part1(read('assets/day8_demo.txt')))
-print(part1(read('assets/day8.txt')))
+print(part1(read('../assets/day8_demo.txt')))
+print(part1(read('../assets/day8.txt')))
 
-print(part2(read('assets/day8_demo.txt')))
-print(part2(read('assets/day8.txt')))
+print(part2(read('../assets/day8_demo.txt')))
+print(part2(read('../assets/day8.txt')))

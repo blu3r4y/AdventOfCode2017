@@ -101,8 +101,8 @@ def part2(instructions):
     return c0, c1
 
 
-print(part1(pd.read_csv('assets/day18_demo1.txt', delimiter=' ', names=['ins', 'arg0', 'arg1'])))
-print(part1(pd.read_csv('assets/day18.txt', delimiter=' ', names=['ins', 'arg0', 'arg1'])))
+print(part1(pd.read_csv('../assets/day18_demo1.txt', delimiter=' ', names=['ins', 'arg0', 'arg1'])))
+print(part1(pd.read_csv('../assets/day18.txt', delimiter=' ', names=['ins', 'arg0', 'arg1'])))
 
-print(part2(pd.read_csv('assets/day18_demo2.txt', delimiter=' ', names=['ins', 'arg0', 'arg1'])))
-print(part2(pd.read_csv('assets/day18.txt', delimiter=' ', names=['ins', 'arg0', 'arg1'])))
+print(part2(pd.read_csv('../assets/day18_demo2.txt', delimiter=' ', names=['ins', 'arg0', 'arg1'])))
+print(part2(pd.read_csv('../assets/day18.txt', delimiter=' ', names=['ins', 'arg0', 'arg1'])))

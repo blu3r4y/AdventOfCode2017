@@ -51,6 +51,6 @@ def part2():
     return h
 
 
-# manually disassembled code in assets/day23.txt
+# manually disassembled code in ../assets/day23.txt
 print(part1())
 print(part2())

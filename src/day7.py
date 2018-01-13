@@ -56,8 +56,8 @@ def part2(graph):
             return 0
 
 
-print(part1(read_graph('assets/day7_demo.txt')))
-print(part1(read_graph('assets/day7.txt')))
+print(part1(read_graph('../assets/day7_demo.txt')))
+print(part1(read_graph('../assets/day7.txt')))
 
-print(part2(read_graph('assets/day7_demo.txt')))
-print(part2(read_graph('assets/day7.txt')))
+print(part2(read_graph('../assets/day7_demo.txt')))
+print(part2(read_graph('../assets/day7.txt')))

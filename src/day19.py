@@ -115,8 +115,8 @@ def part2(grid, start_node):
     return walk(grid, start_node)[1]
 
 
-print(part1(*read_graph('assets/day19_demo.txt')))
-print(part1(*read_graph('assets/day19.txt')))
+print(part1(*read_graph('../assets/day19_demo.txt')))
+print(part1(*read_graph('../assets/day19.txt')))
 
-print(part2(*read_graph('assets/day19_demo.txt')))
-print(part2(*read_graph('assets/day19.txt')))
+print(part2(*read_graph('../assets/day19_demo.txt')))
+print(part2(*read_graph('../assets/day19.txt')))

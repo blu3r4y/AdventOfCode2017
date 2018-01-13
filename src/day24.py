@@ -38,8 +38,8 @@ def part2(puzzle):
     return max([longest_bridge(bridges) for bridges in all_bridges(puzzle)])
 
 
-print(part1(np.loadtxt('assets/day24_demo.txt', delimiter='/', dtype=int)))
-print(part1(np.loadtxt('assets/day24.txt', delimiter='/', dtype=int)))
+print(part1(np.loadtxt('../assets/day24_demo.txt', delimiter='/', dtype=int)))
+print(part1(np.loadtxt('../assets/day24.txt', delimiter='/', dtype=int)))
 
-print(part2(np.loadtxt('assets/day24_demo.txt', delimiter='/', dtype=int)))
-print(part2(np.loadtxt('assets/day24.txt', delimiter='/', dtype=int)))
+print(part2(np.loadtxt('../assets/day24_demo.txt', delimiter='/', dtype=int)))
+print(part2(np.loadtxt('../assets/day24.txt', delimiter='/', dtype=int)))

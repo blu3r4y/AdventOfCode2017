@@ -50,12 +50,12 @@ def part2(mat, bursts):
     return simulate(mat, bursts, True)
 
 
-print(part1(read_matrix('assets/day22_demo.txt'), 7))
-print(part1(read_matrix('assets/day22_demo.txt'), 70))
-print(part1(read_matrix('assets/day22_demo.txt'), 10000))
-print(part1(read_matrix('assets/day22.txt'), 10000))
+print(part1(read_matrix('../assets/day22_demo.txt'), 7))
+print(part1(read_matrix('../assets/day22_demo.txt'), 70))
+print(part1(read_matrix('../assets/day22_demo.txt'), 10000))
+print(part1(read_matrix('../assets/day22.txt'), 10000))
 
 print()
-print(part2(read_matrix('assets/day22_demo.txt'), 100))
-print(part2(read_matrix('assets/day22_demo.txt'), 10000000))
-print(part2(read_matrix('assets/day22.txt'), 10000000))
+print(part2(read_matrix('../assets/day22_demo.txt'), 100))
+print(part2(read_matrix('../assets/day22_demo.txt'), 10000000))
+print(part2(read_matrix('../assets/day22.txt'), 10000000))

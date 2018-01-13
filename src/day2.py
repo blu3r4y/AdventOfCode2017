@@ -22,7 +22,7 @@ def part2(table):
 
 
 print(part1(np.array([[5, 1, 9, 5], [7, 5, 3, np.nan], [2, 4, 6, 8]])))
-print(part1(np.loadtxt('assets/day2_part1.txt')))
+print(part1(np.loadtxt('../assets/day2_part1.txt')))
 
 print(part2(np.array([[5, 9, 2, 8], [9, 4, 7, 3], [3, 8, 6, 5]])))
-print(part2(np.loadtxt('assets/day2_part2.txt')))
+print(part2(np.loadtxt('../assets/day2_part2.txt')))

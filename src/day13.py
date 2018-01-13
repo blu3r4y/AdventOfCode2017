@@ -43,7 +43,7 @@ def part2(spec):
 
 
 print(part1(np.array([[0, 3], [1, 2], [4, 4], [6, 4]])))
-print(part1(np.loadtxt('assets/day13.txt', dtype=int, delimiter=':')))
+print(part1(np.loadtxt('../assets/day13.txt', dtype=int, delimiter=':')))
 
 print(part2(np.array([[0, 3], [1, 2], [4, 4], [6, 4]])))
-print(part2(np.loadtxt('assets/day13.txt', dtype=int, delimiter=':')))
+print(part2(np.loadtxt('../assets/day13.txt', dtype=int, delimiter=':')))

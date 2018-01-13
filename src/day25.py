@@ -55,5 +55,5 @@ def part1(start, steps, writes, moves, states):
     return turing(start, steps, writes, moves, states)
 
 
-print(part1(*read_blueprint('assets/day25_demo.txt')))
-print(part1(*read_blueprint('assets/day25.txt')))
+print(part1(*read_blueprint('../assets/day25_demo.txt')))
+print(part1(*read_blueprint('../assets/day25.txt')))

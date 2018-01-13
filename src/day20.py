@@ -39,8 +39,8 @@ def part2(vectors):
     return len(vectors)
 
 
-print(part1(load('assets/day20_demo1.txt')))
-print(part1(load('assets/day20.txt')))
+print(part1(load('../assets/day20_demo1.txt')))
+print(part1(load('../assets/day20.txt')))
 
-print(part2(load('assets/day20_demo2.txt')))
-print(part2(load('assets/day20.txt')))
+print(part2(load('../assets/day20_demo2.txt')))
+print(part2(load('../assets/day20.txt')))
