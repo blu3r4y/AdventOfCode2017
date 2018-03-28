@@ -2,10 +2,6 @@
 # (c) blu3r4y
 
 
-import cython
-
-
-@cython.profile(False)
 def part1():
     mul = 0
     a, b, c, d, e, f, g, h = 0, 93, 93 + 17, 0, 0, 0, 0, 0
@@ -24,7 +20,6 @@ def part1():
     return mul
 
 
-@cython.profile(False)
 def factors(n, start=1):
     result = []
     for i in range(start, n // 2 + 1):
@@ -33,7 +28,6 @@ def factors(n, start=1):
     return result
 
 
-@cython.profile(False)
 def part2():
     a, b, c, d, e, f, g, h = 1, 109300, 126300 + 17, 0, 0, 0, 0, 0
 

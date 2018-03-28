@@ -4,7 +4,6 @@
 
 import itertools
 import numpy as np
-import cython
 
 GRID = ".#./..#/###"
 
@@ -35,7 +34,6 @@ def load(file):
     return text_to_matrix(GRID), rules
 
 
-@cython.profile(True)
 def enhance(mat, rules, iterations):
     for i in range(iterations):
         size = mat.shape[0]
