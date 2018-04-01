@@ -20,7 +20,7 @@ My solutions for the [AoC 2017](http://adventofcode.com/2017) challenges, writte
 - :snake: **[Day 12: Digital Plumber](http://adventofcode.com/2017/day/12)** - [Python Solution](src/day12.py)
 - :snake: **[Day 13: Packet Scanners](http://adventofcode.com/2017/day/13)** - [Python Solution](src/day13.py)
 - :snake: **[Day 14: Disk Defragmentation](http://adventofcode.com/2017/day/14)** - [Python Solution](src/day14.py)
-- :snake: **[Day 15: Dueling Generators](http://adventofcode.com/2017/day/15)** - [Python Solution](src/day15.py)
+- :snake: :trident: **[Day 15: Dueling Generators](http://adventofcode.com/2017/day/15)** - [Python Solution](src/day15.py) - [Haskell Solution](src/day15.hs)
 - :snake: **[Day 16: Permutation Promenade](http://adventofcode.com/2017/day/16)** - [Python Solution](src/day16.py)
 - :snake: **[Day 17: Spinlock](http://adventofcode.com/2017/day/17)** - [Python Solution](src/day17.py)
 - :snake: **[Day 18: Duet](http://adventofcode.com/2017/day/18)** - [Python Solution](src/day18.py)
