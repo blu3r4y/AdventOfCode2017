@@ -1,16 +1,16 @@
 # Advent of Code 2017
 
-My solutions for the [AoC 2017](http://adventofcode.com/2017) challenges, written in Python.
+My solutions for the [AoC 2017](http://adventofcode.com/2017) challenges, written in Python (+ some Haskell and Go solutions).
 
 :christmas_tree: :christmas_tree: :christmas_tree:
 
 ## Challenges
 
-- :snake: **[Day 1: Inverse Captcha](http://adventofcode.com/2017/day/1)** - [Python Solution](src/day1.py)
-- :snake: **[Day 2: Corruption Checksum](http://adventofcode.com/2017/day/2)** - [Python Solution](src/day2.py)
-- :snake: **[Day 3: Spiral Memory](http://adventofcode.com/2017/day/3)** - [Python Solution](src/day3.py)
-- :snake: **[Day 4: High-Entropy Passphrases](http://adventofcode.com/2017/day/4)** - [Python Solution](src/day4.py)
-- :snake: **[Day 5: A Maze of Twisty Trampolines, All Alike](http://adventofcode.com/2017/day/5)** - [Python Solution](src/day5.py)
+- :snake: :trident: **[Day 1: Inverse Captcha](http://adventofcode.com/2017/day/1)** - [Python Solution](src/day1.py) - [Haskell Solution](src/day1.hs)
+- :snake: :trident: **[Day 2: Corruption Checksum](http://adventofcode.com/2017/day/2)** - [Python Solution](src/day2.py) - [Haskell Solution](src/day2.hs)
+- :snake: :trident: **[Day 3: Spiral Memory](http://adventofcode.com/2017/day/3)** - [Python Solution](src/day3.py) - [Haskell Solution](src/day3.hs)
+- :snake: :trident: **[Day 4: High-Entropy Passphrases](http://adventofcode.com/2017/day/4)** - [Python Solution](src/day4.py) - [Haskell Solution](src/day4.hs)
+- :snake: :trident: **[Day 5: A Maze of Twisty Trampolines, All Alike](http://adventofcode.com/2017/day/5)** - [Python Solution](src/day5.py) - [Haskell Solution](src/day5.hs)
 - :snake: **[Day 6: Memory Reallocation](http://adventofcode.com/2017/day/6)** - [Python Solution](src/day6.py)
 - :snake: **[Day 7: Recursive Circus](http://adventofcode.com/2017/day/7)** - [Python Solution](src/day7.py)
 - :snake: **[Day 8: I Heard You Like Registers](http://adventofcode.com/2017/day/8)** - [Python Solution](src/day8.py)
@@ -41,6 +41,10 @@ Package requirements are specified in the [requirements.txt](requirements.txt) f
 ```
 pip3 install -r requirements.txt
 ```
+
+### Haskell
+
+No special requirements.
 
 ### Go
 
