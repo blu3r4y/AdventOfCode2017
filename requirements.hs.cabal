@@ -1,0 +1,17 @@
+name:                AdventOfCode2017
+version:             0.1.0.0
+synopsis:            My solutions for the AoC 2017 challenges
+license:             MIT
+license-file:        LICENSE.md
+author:              Mario Kahlhofer
+maintainer:          mario.kahlhofer@gmail.com
+copyright:           (c) 2017 Mario Kahlhofer - blu3r4y
+build-type:          Simple
+cabal-version:       >=1.10
+
+executable AdventOfCode2017
+  main-is:             day1.hs
+  build-depends:       base >=4.10 && <4.11,
+                       monad-extras >= 0.6.0 && < 0.7
+  hs-source-dirs:      src
+  default-language:    Haskell2010

@@ -36,16 +36,22 @@ My solutions for the [AoC 2017](http://adventofcode.com/2017) challenges, writte
 
 ### Python 3.6
 
-Package requirements are specified in the [requirements.txt](requirements.txt) file.
+Package requirements are specified in the [requirements.py.txt](requirements.py.txt) file.
 
 ```
-pip3 install -r requirements.txt
+pip3 install -r requirements.py.txt
 ```
 
-### Haskell
+### Haskell 2010
 
-No special requirements.
+Package requirements are specified in the [requirements.hs.cabal](requirements.hs.cabal) file in the `build-depends` section.
+All Haskell scripts can be directly interpreted with `runhaskell`.
+You can install some required packages manually (in a sandbox environment) or globally with the following command:
 
-### Go
+```
+cabal install --only-dependencies
+```
 
-No special requirements.
+### Go 1.10
+
+No additional package requirements.
